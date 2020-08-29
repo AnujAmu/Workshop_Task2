@@ -61,4 +61,4 @@ function verifyToken(req, res, next) {
 
 }
 
-app.listen(4000, () => console.log('Server started on port 5000'));
+app.listen(4000, () => console.log('Server started on port 4000'));
